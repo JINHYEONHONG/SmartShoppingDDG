@@ -1,2 +1,3 @@
 # SmartShoppingDDG
-@EveryRightJin  // project right update 18.08.28
+@EveryRightDDG  // project right update 18.08.28
+by @JINHYEONHONG

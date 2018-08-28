@@ -1,0 +1,10 @@
+SS_PIN 2
+RST_PIN 15
+
+SDA(SS) - D4(GPIO2)
+SCK       - D5(GPIO14)
+MOSI     - D7(GPIO13)
+MISO     - D6(GPIO12)
+GND      - GND
+RST       - D3(GPIO0)
+3.3v      - 3v
